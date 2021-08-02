@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_sections_services",
+  "info": {
+    "name": "services",
+    "icon": "broom",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "service": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.service",
+      "max": 2,
+      "min": 1
+    }
+  }
+}

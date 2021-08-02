@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_sections_newsletters",
+  "info": {
+    "name": "newsletter",
+    "icon": "folder-open",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
